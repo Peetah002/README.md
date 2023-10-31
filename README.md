@@ -1,8 +1,11 @@
 Hi there👋<br>
 I'm Pietro and this is my profile :)<br>
+Here's some of my info that could help you understand who I am!<br>
 
-~ 📒 I'm a student based in Italy<br>
-~ 👨‍💻 I'm learning Angular<br>
-~ 🌐 I really appreciate web development<br>
-~ 📶 My certifications: Cisco IT Essential (ITE) | Cisco CCNA (R&S)<br>
-~ 🗣️ Languages: Italian | English
+🎂 Age: 17 Years Old<br>
+🌍 Nationality: Italy<br>
+👀 Profession: Student & Web Developer<br>
+👨‍💻 Languages: C++, Java, Javascript, PHP, currently learning Angular<br>
+✨ Other Hobbies: Gaming, Reading<br>
+📝 My certifications: Cisco IT Essential (ITE) | Cisco CCNA (R&S)<br>
+🗣️ Able to Speak: Italian | English | Japanese (Learning)
