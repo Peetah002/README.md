@@ -1,5 +1,5 @@
 Hi there👋<br>
-I'm Pietro and this is my profile :)<br>
+I'm Pietro and this is my profile<br>
 Here's some of my info that could help you understand who I am!<br>
 
 🎂 Age: 17 Years Old<br>
